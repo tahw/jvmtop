@@ -73,5 +73,3 @@ In <a href='https://github.com/patric-r/jvmtop/blob/master/doc/ExampleOutput.md'
 
 <a href='https://github.com/patric-r/jvmtop/issues'>Pull requests / bug reports</a> are always welcome.<br>
 <br>
-
-tahw
